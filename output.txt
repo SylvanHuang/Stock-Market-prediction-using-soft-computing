@@ -1,0 +1,12 @@
+Company 1 = Accenture 
+ Company 2 = Infosys 
+ Company 3 = ADP 
+
+ Invest Amount 
+0.000000  0.000000  10000.000000  
+ Number of Stocks 
+0.000000  0.000000  130.000000  
+ Individual profit 
+0.000000  0.000000  148.200000  
+ Total profit 
+148.200000  
